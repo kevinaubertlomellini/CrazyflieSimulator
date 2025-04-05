@@ -12,3 +12,6 @@ cd Crazyflie/CrazyflieSimulator/ros2_ws/
 source /opt/ros/humble/setup.bash
 . install/local_setup.bash
 ros2 run crazyflie_examples hello_world
+
+ros2 run crazyflie_examples main_sketch_codeV4
+
